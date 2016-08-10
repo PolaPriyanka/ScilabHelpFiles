@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE map PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN" "http://java.sun.com/products/javahelp/map_1_0.dtd">
+<map version="1.0">
+<mapID target="index" url="index.html"/>
+<mapID target="section_f0fbc3e0945dca2545f821718c71d79d" url="section_f0fbc3e0945dca2545f821718c71d79d.html"/>
+<mapID target="alignsignals" url="alignsignals.html"/>
+<mapID target="arithdeco" url="arithdeco.html"/>
+<mapID target="arithenco" url="arithenco.html"/>
+<mapID target="finddelay" url="finddelay.html"/>
+<mapID target="gfcosets" url="gfcosets.html"/>
+<mapID target="gflineq" url="gflineq.html"/>
+<mapID target="gfrepcov" url="gfrepcov.html"/>
+<mapID target="gftrunc" url="gftrunc.html"/>
+<mapID target="iqcoef2imbal" url="iqcoef2imbal.html"/>
+<mapID target="iqimbal2coef" url="iqimbal2coef.html"/>
+<mapID target="iscatastrophic" url="iscatastrophic.html"/>
+<mapID target="istrellis" url="istrellis.html"/>
+<mapID target="lteZadoffChuSeq" url="lteZadoffChuSeq.html"/>
+<mapID target="ssbdemod" url="ssbdemod.html"/>
+</map>
