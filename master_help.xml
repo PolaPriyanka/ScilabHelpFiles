@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+<!--Begin Entities-->
+<!ENTITY aec63389aa49fdf8d86b09fa2754fc968 SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/alignsignals.xml">
+<!ENTITY a9f942e56f3943e44ecae221b00eb45f5 SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/arithdeco.xml">
+<!ENTITY ab10b2d87ffd07f902b9f36616f984d79 SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/arithenco.xml">
+<!ENTITY a9a51fe4aa0788839a518b02e6d8b8a91 SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/finddelay.xml">
+<!ENTITY ad7a084a8e34c54d767cfc4f828af94ce SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/gfcosets.xml">
+<!ENTITY aa3a8df47748b7a0bdfe71085575233c4 SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/gflineq.xml">
+<!ENTITY adaa2081eede87d493bd3ec6fb5246ba0 SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/gfrepcov.xml">
+<!ENTITY af2da1442f58ad12075a6103e287c5b4b SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/gftrunc.xml">
+<!ENTITY a84c8c5144c7c0fffbf01c5f50600833f SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/iqcoef2imbal.xml">
+<!ENTITY ad588790a98f4c8aeeb0d01bdb464dcfb SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/iqimbal2coef.xml">
+<!ENTITY ae6bc2bd89271d6eb028a7a114017ba17 SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/iscatastrophic.xml">
+<!ENTITY a80ad83a746611f76b29bdd3dce094fbf SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/istrellis.xml">
+<!ENTITY ab40ea110a9742183e2b9ad39b95c9c1e SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/lteZadoffChuSeq.xml">
+<!ENTITY a320dcf3786689e6b2fee3c4f573fd650 SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/ssbdemod.xml">
+<!ENTITY a31fb2fd8d81dd3b356c6f7409943c4ac SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/scilab_toolboxHelp_help/jhelpidx.xml">
+<!ENTITY a80b7e0603110f3ae624b51566888f998 SYSTEM "/home/user/Documents/ScilabCommunication-master/toolboxHelp/scilab_toolboxHelp_help/jhelptoc.xml">
+<!--End Entities-->
+]>
+<book version="5.0-subset Scilab" xml:lang="toolboxHelp"
+      xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info xml:id='communication_toolbox_manual'>
+    <title>Communication Toolbox</title>
+  </info>
+
+<part xml:id='section_f0fbc3e0945dca2545f821718c71d79d'>
+<title>Communication Toolbox</title>
+&aec63389aa49fdf8d86b09fa2754fc968;
+&a9f942e56f3943e44ecae221b00eb45f5;
+&ab10b2d87ffd07f902b9f36616f984d79;
+&a9a51fe4aa0788839a518b02e6d8b8a91;
+&ad7a084a8e34c54d767cfc4f828af94ce;
+&aa3a8df47748b7a0bdfe71085575233c4;
+&adaa2081eede87d493bd3ec6fb5246ba0;
+&af2da1442f58ad12075a6103e287c5b4b;
+&a84c8c5144c7c0fffbf01c5f50600833f;
+&ad588790a98f4c8aeeb0d01bdb464dcfb;
+&ae6bc2bd89271d6eb028a7a114017ba17;
+&a80ad83a746611f76b29bdd3dce094fbf;
+&ab40ea110a9742183e2b9ad39b95c9c1e;
+&a320dcf3786689e6b2fee3c4f573fd650;
+<chapter xml:id='section_440af6d82912fc844b2c3df1a90fd78c'>
+<title>scilab_toolboxHelp_help</title>
+&a31fb2fd8d81dd3b356c6f7409943c4ac;
+&a80b7e0603110f3ae624b51566888f998;
+</chapter>
+</part>
+</book>
